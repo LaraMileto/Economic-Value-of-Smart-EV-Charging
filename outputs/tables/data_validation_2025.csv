@@ -1,0 +1,8 @@
+,Calculated,Official SMARD,Difference,Passed
+Total hours,8760.0,8760.0,0.0,True
+Average price (EUR/MWh),89.32172260273973,89.32,0.0,True
+Minimum price (EUR/MWh),-250.32,-250.32,0.0,True
+Maximum price (EUR/MWh),583.4,583.4,0.0,True
+Negative price hours,573.0,573.0,0.0,True
+Hours above 100 EUR/MWh,3494.0,3494.0,0.0,True
+Hours above 300 EUR/MWh,40.0,40.0,0.0,True

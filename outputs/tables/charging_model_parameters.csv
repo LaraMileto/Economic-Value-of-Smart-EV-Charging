@@ -1,0 +1,10 @@
+,Value
+Battery capacity (kWh),45.0
+Maximum charging power (kW),11.0
+Annual home grid energy (kWh),1584.0
+Daily grid energy (kWh),4.33972602739726
+Daily battery energy (kWh),4.122739726027397
+Charging efficiency (%),95.0
+Minimum charging duration (min),23.671232876712327
+Arrival SOC (%),50.838356164383555
+Departure SOC (%),60.0

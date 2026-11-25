@@ -1,0 +1,12 @@
+,Value
+Total hourly observations,8760.0
+Mean price (EUR/MWh),89.32172260273973
+Median price (EUR/MWh),92.43
+Standard deviation (EUR/MWh),52.101535803750345
+Minimum price (EUR/MWh),-250.32
+Maximum price (EUR/MWh),583.4
+25th percentile (EUR/MWh),71.08749999999999
+75th percentile (EUR/MWh),114.1425
+Negative-price hours (unrounded),576.0
+Negative-price hours (2 decimals),573.0
+Negative-price share (%),6.575342465753424
