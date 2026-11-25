@@ -1,0 +1,10 @@
+strategy,indicator,original,reconstructed,absolute_difference
+Immediate,annual_energy_kwh,1584.0,1584.0,0.0
+Immediate,annual_spot_cost_eur,196.81411054945056,196.81411054945056,0.0
+Immediate,annual_retail_cost_eur,513.6141105494506,513.6141105494506,0.0
+Fixed-time,annual_energy_kwh,1584.0,1584.0,0.0
+Fixed-time,annual_spot_cost_eur,141.12469582417583,141.12469582417583,0.0
+Fixed-time,annual_retail_cost_eur,457.92469582417584,457.92469582417584,0.0
+Dynamic,annual_energy_kwh,1584.0,1584.0,0.0
+Dynamic,annual_spot_cost_eur,121.13464846153845,121.13464846153845,0.0
+Dynamic,annual_retail_cost_eur,437.9346484615385,437.9346484615385,0.0

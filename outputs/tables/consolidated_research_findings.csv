@@ -1,0 +1,10 @@
+indicator,value,unit,source
+Dynamic overnight savings,75.67946208791204,EUR/year,Notebook 02
+Incremental value over midnight timer,19.99004736263737,EUR/year,Notebook 02
+Savings captured with 8 hours,89.93326284663247,%,Experiment A
+Additional value from 10 to 12 hours,1.0905665934065496,EUR/year,Experiment A
+Daytime advantage over overnight,56.48752879120883,EUR/year,Experiment B
+Maximum timing-related cost difference,59.727135164835204,EUR/year,Experiment B
+Relative savings at 10 ct/kWh,21.3053084999495,%,Experiment C
+Relative savings at 30 ct/kWh,11.26158824641871,%,Experiment C
+Savings per kWh at reference demand,4.777743818681316,ct/kWh,Experiment D

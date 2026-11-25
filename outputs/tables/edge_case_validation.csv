@@ -1,0 +1,6 @@
+test,expected_cost_eur,greedy_cost_eur,lp_cost_eur,energy_allocated_kwh,passed
+Constant prices,0.5,0.5,0.5,5.0,True
+Negative prices,-0.2,-0.20000000000000004,-0.20000000000000004,5.0,True
+Multi-interval charging,0.35,0.35000000000000003,0.35000000000000003,5.0,True
+Tied minimum prices,0.25,0.25,0.25,5.0,True
+Zero energy requirement,0.0,0.0,0.0,0.0,True
